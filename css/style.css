@@ -149,22 +149,8 @@ img {
         display: block;
     }
 
-    .col {
-        margin: 20px auto;      
-    }
-
-    .steps .col {
-        width: 100%;
-    }
-
-    .lessons .col {
-        width: 100%;
-    }
-
-    .why-us .col-left{
-        width: 100%;
-    }
-    .why-us .col-right {
-        width: 100%;
+    .row .col {
+        margin: 20px auto;     
+        width: 100%; 
     }
  }
