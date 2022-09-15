@@ -160,4 +160,11 @@ img {
     .lessons .col {
         width: 100%;
     }
+
+    .why-us .col-left{
+        width: 100%;
+    }
+    .why-us .col-right {
+        width: 100%;
+    }
  }
